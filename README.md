@@ -1,4 +1,4 @@
 # Gravil
 Proptype Website
 
-![alt text](http://url/to/img.png)
+![alt text](Logo/Gravil(3).png)
