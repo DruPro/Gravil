@@ -1,4 +1,4 @@
 # Pebble.js
 Proptype Website
 
-![alt text](Logo/Gravil(3).png)
+![alt text](Logo/PebbleJS.png)
