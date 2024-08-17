@@ -1,4 +1,3 @@
 # Pebble.js
-Proptype Website
 
-![alt text](Logo/PebbleJS.png)
+![alt text](Logo/PebbleJS.png = 200x)
