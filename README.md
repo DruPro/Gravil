@@ -14,11 +14,13 @@ Pebble.js is an innovative visual IDE where you can construct web applications u
 * Reverse Compatibility: Features a visual layer transpiler to JavaScript, ensuring smooth transitions between visual and code-based development.
 * Flexibility: No rigid structure; adapt the platform to fit your specific needs.
 * No Spaghetti Code: Maintains clean, manageable code by design.
-Project Goals
+  
+## Project Goals
 * Clone Capability: Build a complete Pebble.js clone within the Pebble.js environment itself.
 * Export/Import Integration: Seamless export of Pebble.js projects to IDEs like VSCode and vice versa.
 * Dynamic Widgets: Drag and drop elements like widgets will be powered by extensions rather than hard-coded implementations. Widgets will naturally emerge from the visual language's capabilities.
-Features
+
+## Features
 * Visual IDE: Drag-and-drop interface for building web applications.
 * Node-Based Structure: Utilize pebbles (nodes) as the core building blocks.
 * Extensible Widgets: Extendable through external plugins and modules.
