@@ -2,9 +2,6 @@
 
 ![alt text](Logo/PebbleJS.png)
 
-
-Great, thanks for the details! Based on the information you’ve provided, here’s a draft README file for your project:
-
 # Pebble.js
 Pebble.js is a visual IDE designed to revolutionize how web applications are built by using nodes or "pebbles" as fundamental building blocks. Our goal is to offer an open-source, extensible, and flexible platform that allows developers to create web applications with a visual approach while avoiding the pitfalls of spaghetti code.
 
