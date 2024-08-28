@@ -18,7 +18,8 @@ Pebble.js is an innovative visual IDE where you can construct web applications u
 * Clone Capability: Build a complete Pebble.js clone within the Pebble.js environment itself.
    <img src="https://github.com/DruPro/Gravil/blob/main/Logo/WithinWithin.png" width="400" alt="Project Diagram">
 * Export/Import Integration: Seamless export of Pebble.js projects to IDEs like VSCode and vice versa.
-   <img src="https://github.com/DruPro/Gravil/blob/main/Logo/Import.png" width="400" alt="Project Diagram"> 
+   <img src="https://github.com/DruPro/Gravil/blob/main/Logo/Import.png" width="400" alt="Project Diagram" style="float:left">
+   <img src="https://github.com/DruPro/Gravil/blob/main/Logo/Export.png" width="400" alt="Project Diagram" > 
 * Dynamic Widgets: Drag and drop elements like widgets will be powered by extensions rather than hard-coded implementations. Widgets will naturally emerge from the visual language's capabilities.
 
 ## Features
